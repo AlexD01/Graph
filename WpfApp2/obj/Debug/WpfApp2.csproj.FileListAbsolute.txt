@@ -1,0 +1,83 @@
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\user-12\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\App.g.cs
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\put.g.cs
+C:\Users\PC-Yasha\Desktop\graf\WpfApp2\obj\Debug\put.baml
+G:\graf\WpfApp2\bin\Debug\WpfApp2.exe.config
+G:\graf\WpfApp2\bin\Debug\WpfApp2.exe
+G:\graf\WpfApp2\bin\Debug\WpfApp2.pdb
+G:\graf\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+G:\graf\WpfApp2\obj\Debug\MainWindow.g.cs
+G:\graf\WpfApp2\obj\Debug\put.g.cs
+G:\graf\WpfApp2\obj\Debug\App.g.cs
+G:\graf\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+G:\graf\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+G:\graf\WpfApp2\obj\Debug\MainWindow.baml
+G:\graf\WpfApp2\obj\Debug\put.baml
+G:\graf\WpfApp2\obj\Debug\WpfApp2.g.resources
+G:\graf\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+G:\graf\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+G:\graf\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+G:\graf\WpfApp2\obj\Debug\WpfApp2.exe
+G:\graf\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\User\Desktop\graf\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\User\Desktop\graf\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\User\Desktop\graf\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\put.g.cs
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\App.g.cs
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\put.baml
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\User\Desktop\graf\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\put.g.cs
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\App.g.cs
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\put.baml
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\PC-Yasha\Desktop\graf rr\WpfApp2\obj\Debug\WpfApp2.pdb
